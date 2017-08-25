@@ -5,8 +5,8 @@
 }
 
 .ball{
-    width: 40px;
-    height: 40px;
+    width: 38px;
+    height: 38px;
     border-radius: 50%;
     background: rgba(255, 187, 4, 0.81);
     text-align: center;
