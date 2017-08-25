@@ -1,0 +1,74 @@
+.box{
+    background: rgb(255, 243, 178);
+    font-size: 16px;
+    font-family: Microsoft JhengHei;
+}
+
+.ball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgba(255, 187, 4, 0.81);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.ball_sp{
+    background: rgba(255, 0, 39, 0.81);
+    color: white;
+}
+
+.strongred{
+    color: red;
+}
+
+.ball_title{
+ font-size: 18;   
+}
+
+.ball_pre{
+    background: rgba(255, 0, 0, 0);
+}
+
+td[colspan="6"]{
+  
+}
+
+
+#rect{
+
+  width: 0px;
+  height: 0px;
+  background: lightblue;
+  border-top: 50px solid green;
+  border-right: 50px solid red;
+  border-bottom: 50px solid blue;
+  border-left: 50px solid yellow;
+
+}
+
+.css_dinner{
+    width: 900px;
+}
+
+.hwcss3{
+    display: inline-block;
+    width: 300px;
+    height: 70px;
+    background: navy;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+    letter-spacing: 1px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.hwcss3:hover{
+    color: gray;
+    background: #9ce7ea;
+    box-shadow: 0.2px 0.2px 10px rgba(0, 0, 0, 0.44); 
+}
+.hwcss3:active{
+    background: #ebebeb;
