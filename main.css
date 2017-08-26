@@ -2,7 +2,7 @@
     background: rgb(255, 243, 178);
     font-size: 13px;
     font-family: Microsoft JhengHei;
-    width: 1200px
+    width: 900px
     
 }
 
@@ -11,7 +11,9 @@
     
 }
 
-
+[colspan="6"]{
+    width:400px;
+}
 
 .ball{
     width: 38px;
@@ -61,6 +63,20 @@ td[colspan="6"]{
 .css_dinner{
     width: 900px;
 }
+
+
+.top{
+background-color:lightgreen; width:200px; height:50px; border:6px solid green;border-top-style:double; border-bottom-style: dotted;margin:100px 0 0 100px;
+}
+
+
+.bottom{
+    background-color:lightgreen; width:150px; height:200px; border:6px solid green;border-top-style:none; margin-left:125px;
+}
+
+
+
+
 
 .hwcss3{
     display: inline-block;
