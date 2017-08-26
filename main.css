@@ -1,9 +1,9 @@
 .box{
     display: inline-block;
     background: rgb(255, 243, 178);
-    font-size: 13px;
+    font-size: 15px;
     font-family: Microsoft JhengHei;
-    width: 900px
+  
     
 }
 
@@ -12,8 +12,8 @@
     
 }
 
-[colspan="6"]{
-    width:400px;
+.innerbox{
+   width: 400px;
 }
 
 .ball{
