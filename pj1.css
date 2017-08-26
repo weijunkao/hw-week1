@@ -8,7 +8,7 @@ body{
 
 .col{
     display: inline-block;
-    width: 200px;
+    width: 210px;
     height: 300px;
     background: #fff;
     margin: 80px 5px;
@@ -17,21 +17,24 @@ body{
 
 .topRow{
     background: navy;
-    height: 150px;
+    height: 160px;
     width: 100%;
     color: #fff;
+    
 }
 
 .topRow>.title{
     text-align: center;
 
     text-transform: uppercase;
-    padding: 10px;
+    padding: 12px;
+ 
     
 }
 
 .topRow>.price{
     text-align: center;
+    margin: 2px;
 }
 .topRow>.price *{
     display: inline-block;
@@ -39,7 +42,7 @@ body{
 }
 
 .number{
-    font-size: 3em;
+    font-size: 2.8em;
     margin-left: 10px;
 }
 .dollor{
@@ -53,8 +56,9 @@ body{
     text-align: center;
     border-radius: 5px;
     font-size: 0.7em;
-    padding: 6px 0px;
-    margin-top: 10px;
+    padding: 5px 0px;
+    margin-top: 12px;
+  
 }
 
 .dollar{
@@ -72,23 +76,23 @@ i{
 .bottomRow{
     width: 130px;
     text-align: left;
-    margin: 15px 15px 5px 35px;
+    margin: 20px 15px 5px 45px;
     font-size: 0.6em;
     color: gray
 }
 .messages{
-    padding-bottom: 3px;
+    padding-bottom: 5px;
     border-bottom: 1px solid rgba(128, 128, 128, 0.35); 
     margin: 5px;
 }
 .data{
-    padding-bottom: 3px;
+    padding-bottom: 5px;
     border-bottom: 1px solid rgba(128, 128, 128, 0.35); 
     margin: 5px;
     margin: 5px;
 }
 .users{
-    padding-bottom: 3px;
+    padding-bottom: 5px;
     border-bottom: 1px solid rgba(128, 128, 128, 0.35); 
     margin: 5px;
     margin: 5px;
