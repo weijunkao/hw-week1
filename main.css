@@ -1,4 +1,5 @@
 .box{
+    display: inline-block;
     background: rgb(255, 243, 178);
     font-size: 13px;
     font-family: Microsoft JhengHei;
